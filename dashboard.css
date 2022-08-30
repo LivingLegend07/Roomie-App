@@ -1,0 +1,692 @@
+.dashboard-container {
+  min-height: 100vh;
+}
+.dashboard-dashboard {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 375px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 18px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-light-portrait1 {
+  top: 784px;
+  left: 121px;
+  width: 134px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+}
+.dashboard-bars-home-indicatori-phone-light-portrait {
+  top: 17.294116973876953px;
+  left: 0px;
+  width: 134px;
+  height: 4.117647171020508px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-home-indicator {
+  top: 0px;
+  left: 0px;
+  width: 134px;
+  height: 4px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-username {
+  top: 70px;
+  left: 61px;
+  width: 193px;
+  height: 60px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-ellipse4 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.dashboard-username1 {
+  top: 0px;
+  left: 76px;
+  width: 117px;
+  height: 54px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-text {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-text02 {
+  top: 33px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-dashboardoptions {
+  top: 185px;
+  left: 14px;
+  width: 346.5px;
+  height: 358px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-addaroom {
+  top: 0px;
+  left: 1px;
+  width: 345px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-text04 {
+  left: 40px;
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-text05 {
+  font-weight: 400;
+}
+.dashboard-vector1 {
+  top: 7px;
+  left: 345px;
+  width: 16px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-plus {
+  top: 3px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-messages {
+  top: 82px;
+  left: 1px;
+  width: 345px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-text06 {
+  left: 40px;
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-vector11 {
+  top: 7px;
+  left: 345px;
+  width: 16px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-chatting2 {
+  top: 5px;
+  left: 0px;
+  width: 19px;
+  height: 19px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-vector {
+  top: 10.555529594421387px;
+  left: 4.222119331359863px;
+  width: 6px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-vector01 {
+  top: 6.333410739898682px;
+  left: 4.222119331359863px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-editprofile {
+  top: 164px;
+  left: 1px;
+  width: 345px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-text08 {
+  left: 40px;
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-text09 {
+  font-weight: 400;
+}
+.dashboard-vector12 {
+  top: 7px;
+  left: 345px;
+  width: 16px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-user {
+  top: 3px;
+  left: 0px;
+  width: 18px;
+  height: 20.25px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-vector02 {
+  top: 0px;
+  left: 4px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-vector15 {
+  top: 12.25px;
+  left: 0px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-account-settings {
+  top: 246px;
+  left: 1px;
+  width: 345.5px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-text10 {
+  left: 40.5px;
+  color: rgba(0, 0, 0, 1);
+  width: 187px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-vector13 {
+  top: 7px;
+  left: 345.5px;
+  width: 16px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-setting {
+  top: 5px;
+  left: 0px;
+  width: 19px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-vector03 {
+  top: 7.25px;
+  left: 6.7451171875px;
+  width: 6px;
+  height: 5px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 20px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-helpandsupport {
+  top: 328px;
+  left: 0px;
+  width: 346.5px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-text12 {
+  left: 41.5px;
+  color: rgba(0, 0, 0, 1);
+  width: 187px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-vector14 {
+  top: 7px;
+  left: 346.5px;
+  width: 16px;
+  height: 8px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-help {
+  top: 5px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-help1 {
+  top: 5px;
+  left: 7.5px;
+  width: 5px;
+  height: 11.249956130981445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 5px;
+  height: 7px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-vector07 {
+  top: 9.25px;
+  left: 1.5px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-line9 {
+  top: 143px;
+  left: 0px;
+  width: 375px;
+  height: 0px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.dashboard-logoutbutton {
+  top: 624px;
+  left: 26px;
+  width: 324px;
+  height: 44px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 0, 0, 1);
+}
+.dashboard-logoutbutton1 {
+  top: 7px;
+  left: 97px;
+  width: 131px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-logouticon {
+  top: 5px;
+  left: 0px;
+  width: 20.000015258789062px;
+  height: 20.994365692138672px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.dashboard-vector08 {
+  top: 0px;
+  left: 9px;
+  width: 2px;
+  height: 12px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-vector09 {
+  top: 1.9981536865234375px;
+  left: 0px;
+  width: 20px;
+  height: 19px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-text14 {
+  left: 44px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-vector10 {
+  top: 92px;
+  left: 24px;
+  width: 15px;
+  height: 18px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
